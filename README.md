@@ -15,4 +15,4 @@ Simple nodeJS static server for test web front pages
 - port : Your port number. Default is <code>5555</code>.
 - basePath : Directory name where your files placed. Default is <code>"."</code>.     Make sure this string is not ended with <code>/</code>.
 - mainFile : Define default file path. Default is <code>"index.html"</code>.
-- msg404 : Message to show when server failed to find file that matches to url. Default is <code>"index.html"</code>
+- msg404 : Message to show when server failed to find file that matches to url. Default is <code>"failed to find resource."</code>
