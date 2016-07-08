@@ -1,0 +1,6 @@
+{
+    "port" : 5555,
+    "basePath" : ".",
+    "mainFile" : "index.html",
+    "msg404" : "failed to find resource."
+}
